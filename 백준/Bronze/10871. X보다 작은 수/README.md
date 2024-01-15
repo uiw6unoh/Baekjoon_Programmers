@@ -1,14 +1,18 @@
-# [Bronze III] X보다 작은 수 - 10871 
+# [Bronze V] X보다 작은 수 - 10871 
 
 [문제 링크](https://www.acmicpc.net/problem/10871) 
 
 ### 성능 요약
 
-메모리: 32296 KB, 시간: 676 ms
+메모리: 16796 KB, 시간: 192 ms
 
 ### 분류
 
-구현(implementation), 수학(math)
+구현
+
+### 제출 일자
+
+2024년 1월 15일 14:27:00
 
 ### 문제 설명
 
